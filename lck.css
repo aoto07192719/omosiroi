@@ -1,0 +1,16 @@
+p{
+	font-size:50px;
+h2{
+	font-size:50px;
+}
+.btn {
+    box-sizing: border-box;
+    background-color: #000;
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10px;
+    width: 50%;
+}
